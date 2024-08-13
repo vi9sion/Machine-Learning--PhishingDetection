@@ -21,4 +21,5 @@
 
 <font color='limegreen' style='background-color:black'>Red team operators/engineers can use these projects to simulate phishing attacks during red team engagements, helping to test and improve an organization’s defenses against social engineering attacks. By understanding the detection mechanisms, they can craft more sophisticated phishing scenarios that bypass existing security measures, providing valuable insights into potential vulnerabilities.</font>
 
-![Red Team Operator](https://example.com/path-to-red-hat-man-image.png)
+[Red Team Operators/Engineers]
+Can test before sending out emails in Phishing Campaigns 
